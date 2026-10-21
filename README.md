@@ -19,6 +19,11 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-</div>   
+  <a href="https://github.com/3line4d?tab=repositories&q=&language=python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://github.com/3line4d?tab=repositories&q=&language=typescript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://github.com/3line4d?tab=repositories&q=&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://github.com/3line4d?tab=repositories&q=&language=java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://github.com/3line4d?tab=repositories&q=&language=html"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
+  <a href="https://github.com/3line4d?tab=repositories&q=&language=css"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
+  <a href="https://github.com/3line4d?tab=repositories&q=&language=sql"><img src="https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
+</div>
