@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">🗂 Languages</h3>
 
 <div align="center">
   <a href="https://github.com/3line4d?tab=repositories&q=&language=python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
@@ -28,7 +28,9 @@
   <a href="https://github.com/3line4d?tab=repositories&q=&language=sql"><img src="https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
 </div>
 
-<h3 align="center">⚙️ Development</h3>
+<br>
+
+<h3 align="center">⚙️ Environment</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
