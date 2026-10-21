@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  Full-Stack Developer · Based in Germany
+Hobby developer · Based in Germany
 </p>
 
 <br>
