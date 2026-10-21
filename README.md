@@ -5,7 +5,12 @@
 <br>
 
 <p align="center">
-Hobby developer · Based in Germany
+  Hobby developer · Based in Germany
+</p>
+
+<p align="center">
+  I'm a self-taught developer who enjoys building small projects for fun.<br>
+  Currently exploring the web stack and learning new things along the way.
 </p>
 
 <br>
@@ -18,4 +23,4 @@ Hobby developer · Based in Germany
   <a href="https://github.com/J1nxed7?tab=repositories&q=&language=python"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://github.com/J1nxed7?tab=repositories&q=&language=html"><img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /></a>
   <a href="https://github.com/J1nxed7?tab=repositories&q=&language=css"><img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></a>
-</div>   
+</div>
