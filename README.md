@@ -38,3 +38,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Proxmox-EE0000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
 </div>
+
+<br>
+
+<p align="center" style="color: #8b949e; font-style: italic;">
+  "if it works, don't touch it. if it doesn't, write a script."
+</p>   
