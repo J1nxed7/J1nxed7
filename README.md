@@ -8,7 +8,7 @@
   <strong>Hobby developer</strong> · Based in Germany
 </p>
 
-<br>
+<hr>
 
 <p align="center">
   I'm a self-taught developer from Germany.<br>
@@ -20,11 +20,9 @@
   but I like where it's going.
 </p>
 
-<br>
+<hr>
 
 <h3 align="center">🛠️ Tech Stack</h3>
-
-<br>
 
 <div align="center">
   <a href="https://github.com/3line4d/my-repositories/tree/main/language/typescript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
